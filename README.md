@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Srishtiwari05
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...java/html/css 
-- 💞️ I’m looking to collaborate on ...projects
-- 📫 How to reach me ...8054179443/ srishtiwari225@gmail.com
-
-<!---
-Srishtiwari05/Srishtiwari05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Programming Languages: Java, SQL(mySQL & NoSQL ), Python
+Frameworks: FastAPI, Next.js, React.js, Express.js, Tailwind CSS, TensorFlow
+Machine Learning/Libraries: TensorFlow, Scikit-learn, Numpy, Panda, Matplotlib, Seaborn, Supervised Learning, Unsupervised Learning, Gen-AI
+Software Development: Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP)
+Tools/Other Skills:Git, GitHub,Node.js,  VS Code, Postman, Vercel, Render, API integration, Authentication (JWT), Deployment, OAuth2, CORS, VScode, mongoDB, AWS,Git & GitHub, RESTAPI
